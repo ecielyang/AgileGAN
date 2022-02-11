@@ -12,3 +12,5 @@
 
 Download with https://github.com/GuoxianSong/AgileGAN.git AgileGAN and https://github.com/NVlabs/stylegan2.git StyleGAN2
 
+
+
