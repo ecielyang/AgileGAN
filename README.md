@@ -12,7 +12,7 @@
 
 Download with https://github.com/GuoxianSong/AgileGAN.git AgileGAN and https://github.com/NVlabs/stylegan2.git StyleGAN2
 
-Cartoon effect:
+## Outcome
 ![trubpoutput](https://user-images.githubusercontent.com/71930710/153650556-6fb03380-cbe9-4dd0-9494-98f7f80599b1.png)
 
 ## Pretrained model
