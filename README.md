@@ -13,7 +13,8 @@
 Download with https://github.com/GuoxianSong/AgileGAN.git AgileGAN and https://github.com/NVlabs/stylegan2.git StyleGAN2
 
 Cartoon effect:
+![trubpoutput](https://user-images.githubusercontent.com/71930710/153650556-6fb03380-cbe9-4dd0-9494-98f7f80599b1.png)
 
-
-
-<img width="117" alt="Screen Shot 2022-02-11 at 1 40 34 PM" src="https://user-images.githubusercontent.com/71930710/153650393-26de39d5-8997-4245-828b-e66397d9987a.png">
+## Pretrained model
+you can dwon load the pretrianed model from google drive:
+https://drive.google.com/drive/folders/1BvEP4LNlfBU_cdy5tW1dh15jK9LQZJBX?usp=sharing
