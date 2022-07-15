@@ -18,3 +18,5 @@ Download with https://github.com/GuoxianSong/AgileGAN.git AgileGAN and https://g
 ## Pretrained model
 you can dwon load the pretrianed model from google drive:
 https://drive.google.com/drive/folders/1BvEP4LNlfBU_cdy5tW1dh15jK9LQZJBX?usp=sharing
+
+
