@@ -11,7 +11,8 @@
 - cv2 tested on 4.2.0
 
 Download with https://github.com/GuoxianSong/AgileGAN.git AgileGAN and https://github.com/NVlabs/stylegan2.git StyleGAN2
-For models and encoders, I refer to https://github.com/flyingbread-elon/AgileGAN
+
+For encoders, I refer to https://github.com/flyingbread-elon/AgileGAN
 
 ## Outcome
 ![trubpoutput](https://user-images.githubusercontent.com/71930710/153650556-6fb03380-cbe9-4dd0-9494-98f7f80599b1.png)
